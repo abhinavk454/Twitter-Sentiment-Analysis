@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 def main():
     search_item=input("Enter the term you want to search :")
-    no_of_searchT=int(input("Enter the no of queries you will take :"))
+    no_of_searchT=int(input("Enter the no of tweets you will take :"))
     auth=OAuthHandler(twiiter_secret.CONSUMER_KEY,twiiter_secret.CONSUMER_SECERT)
     auth.set_access_token(twiiter_secret.ACCESS_TOKEN,twiiter_secret.ACCESS_TOKEN_SECRET)
     api=tweepy.API(auth)
