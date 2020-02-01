@@ -1,4 +1,4 @@
-ACCESS_TOKEN="1216257168682278912-av95eejNz7iFdVXO7pe2E7cFrh97CN"
-ACCESS_TOKEN_SECRET="gDQAUoewC1xULF6Oi2DamrOXX9KmiONAEgN0clU5D1T7J"
-CONSUMER_KEY="HKcPCBGT1Zxzn2wOdYUjp4dvw"
-CONSUMER_SECERT="fNaQvmjDAId3jrgUdy67gPFov4uZqTuRqjwSs4ITUoq3RzXmJp"
+ACCESS_TOKEN=""#enter your ACCESS TOKEn
+ACCESS_TOKEN_SECRET=""#Enter your access token secret
+CONSUMER_KEY=""#enter your consumer or api key
+CONSUMER_SECERT=""#enter you consumer secret or api secret
